@@ -1,5 +1,8 @@
 ## 알고리즘 문제
 
+- 기존 풀이는 javascript로 되어있습니다.
+- 현재는 Java를 사용하여 다시 풀며 Java문법 풀이로 변경해나가고 있습니다.
+
 ### Programmers
 
 ---
@@ -11,7 +14,6 @@
 - [가운데 글자 가져오기](./Programmers/가운데_글자_가져오기.md)
 - [같은 숫자는 싫어](./Programmers/같은_숫자는_싫어.md)
 - [나누어 떨어지는 숫자 배열](./Programmers/나누어_떨어지는_숫자_배열.md)
-
 - [두개 뽑아서 더하기](./Programmers/두개_뽑아서_더하기.md)
 - [문자열내 p와 y의 개수](./Programmers/문자열_내_p와_y의_개수.md)
 - [문자열을 정수로 바꾸기](./Programmers/문자열을_정수로_바꾸기.md)
@@ -34,7 +36,6 @@
 - [위장](./Programmers/위장.md)
 - [쿼드압축 후 개수 세기](./Programmers/쿼드압축_후_개수_세기.md)
 - [올바른 괄호](./Programmers/올바른괄호.md)
-
 - [피보나치수](./Programmers/피보나치수.md)
 - [프린터](./Programmers/Printer.md)
 - [스킬트리](./Programmers/Skill_Tree.md)
