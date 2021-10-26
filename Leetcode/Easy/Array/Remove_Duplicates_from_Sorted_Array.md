@@ -30,19 +30,22 @@ Output: 5, (nums = [0, 1, 2, 3, 4]);
 ### 나의 풀이
 
 ---
-
-- 처음에는 기존 배열에서 값을 하나씩 삭제해나가는 방식을 생각했다.
-- 그렇게 될 경우 2중 for문을 돌려야해서 배열이 길어질수록 성능이 떨어질것이라고 생각되어 포기했다.
-- 문제에서 리턴값 이후의 인덱스에는 어떤값이 와도 상관없다는 조건을 보고 값을 차라리 대체하는게 낫겠다는 생각을 가지고 코드를 작성했다.
-
-```js
-var removeDuplicates = function (nums) {
-  let point = 0;
-  for (let i = 1; i < nums.length; i++) {
-    if (nums[point] !== nums[i]) {
-      nums[++point] = nums[i];
+```java
+class Solution {
+    public int removeDuplicates(int[] nums) {
+        int point = 0;
+        for(int i=1; i<nums.length; i++){
+            if(nums[point] != nums[i]){
+                point+=1;
+                nums[point] = nums[i];
+            }
+        }
+        return point+1;
     }
-  }
-  return ++point;
-};
+}
+
+//수도코드
+//1. point라는 숫자 변수 하나를 만든다.
+//2. for문을 통해 배열을 순환한다.
+//3. nums[i]의 값이 nums[point]와 동일하지 않으면 point+1 위치에 해당 값을 저장한다.
 ```

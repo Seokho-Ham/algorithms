@@ -51,23 +51,37 @@
 
 ---
 
+#### Easy
+
+**Array**
+- [Best Time to Buy and Sell Stock 2](./Leetcode/Easy/Array/Best_Time_to_Buy_and_Sell_Stock_II.md)
+- [Contains Duplicate](./Leetcode/Easy/Array/Contains_Duplicate.md)
+- [Remove Duplicates from Sorted Array](./Leetcode/Easy/Array/Remove_Duplicates_from_Sorted_Array.md)
+- [Intersections of Two Arrays_II](./Leetcode/Easy/Array/Intersections_of_Two_Arrays_II.md)
+- [Remove Duplicates from Sorted Array](./Leetcode/Easy/Array/Remove_Duplicates_from_Sorted_Array.md)
+- [Single Number](./Leetcode/Easy/Array/SingleNumber.md)
+
+**LinkedList**
+- [Merge Sorted Array](./Leetcode/Easy/LinkedList/Merge_Sorted_Array.md)
+
+
+**String**
+- [String to Integer atoi](./Leetcode/Easy/String/String_to_Integer_atoi.md)
+
+
+**Others**
 - [3Sum](./Leetcode/3Sum.md)
 - [Add Two Numbers](./Leetcode/Add_Two_Numbers.md)
 - [Array](./Leetcode/Array.md)
-- [Best Time to Buy and Sell Stock 2](./Leetcode/Best_Time_to_Buy_and_Sell_Stock_II.md)
 - [Count and Say](./Leetcode/Count_and_Say.md)
 - [Dynamic Programming 3Q](./Leetcode/Dynamic_Programming_3Q.md)
 - [First Bad Version](./Leetcode/First_Bad_Version.md)
 - [Group Anagrams](./Leetcode/Group_Anagrams.md)
 - [House Robber](./Leetcode/House_Robber.md)
 - [Implement strStr](./Leetcode/Implement_strStr.md)
-- [Intersections of Two Arrays_II](./Leetcode/Intersections_of_Two_Arrays_II.md)
-- [Merge Sorted Array](./Leetcode/Merge_Sorted_Array.md)
 - [Plus One](./Leetcode/Plus_One.md)
-- [Remove Duplicates from Sorted Array](./Leetcode/Remove_Duplicates_from_Sorted_Array.md)
 - [Reverse Integer](./Leetcode/Reverse_Integer.md)
 - [Reverse Linked List](./Leetcode/Reverse_Linked_List.md)
 - [Set Matrix Zeroes](./Leetcode/Set_Matrix_Zeroes.md)
 - [Shuffle an Array](./Leetcode/Shuffle_an_Array.md)
-- [String to Integer atoi](./Leetcode/String_to_Integer_atoi.md)
 - [Two Sum](./Leetcode/Two_Sum.md)

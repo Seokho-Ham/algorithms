@@ -44,9 +44,18 @@ Output: 0;
 ### 나의 풀이
 
 ---
-
-- 현재값보다 다음날의 값이 크면 그 차이를 결과값에 순차적으로 더해주는 방식으로 풀었다.
-
-<br/>
-
-<img src='https://user-images.githubusercontent.com/57708971/118916870-b9371980-b96a-11eb-9f37-19627f185135.png' width='730px' height='400px'/>
+```java
+class Solution {
+    public int maxProfit(int[] prices) {
+        int result = 0;
+        for(int i=0; i<prices.length-1; i++){
+            if(prices[i] < prices[i+1]){
+                result += prices[i+1]-prices[i];
+            }
+        }
+        return result;
+    }
+}
+//수도 코드
+//1. 다음 인덱스 값이 현재 값보다 작으면 0, 크면 다음값-현재값을 결과값에 더한다.
+```
