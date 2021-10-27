@@ -51,7 +51,7 @@
 
 ---
 
-#### Easy
+### Easy
 
 **Array**
 - [Best Time to Buy and Sell Stock 2](./Leetcode/Easy/Array/Best_Time_to_Buy_and_Sell_Stock_II.md)
