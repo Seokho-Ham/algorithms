@@ -1,36 +1,6 @@
-### 문제
+package easy;
 
----
-
-- 두개의 문자열 s,t가 주어진다.
-- t가 s의 anagram이면 true, 아니면 false를 반환하라.
-
-### 예시
-
----
-
-```md
-Example 1:
-
-Input: s = "anagram", t = "nagaram"
-Output: true
-
-```
-```md
-Example 2:
-
-Input: s = "rat", t = "car"
-Output: false
-```
-
-
-
-### 나의 풀이
-
----
-
-```java
-class Solution {
+public class ValidAnagram {
     public boolean isAnagram(String s, String t) {
         int[] memory = new int[256];
 
@@ -48,4 +18,3 @@ class Solution {
         return true;
     }
 }
-```

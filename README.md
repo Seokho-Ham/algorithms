@@ -7,17 +7,7 @@
 
 ---
 
-|Easy|Medium|Hard|
-|----|------|----|
-|[Array](./Leetcode/Easy/Array/README.md)|[Array and Strings](./Leetcode/Medium/Array_and_Strings/README.md)||
-|[String](./Leetcode/Easy/String/README.md)|[Linked List](./Leetcode/Medium/LinkedList/README.md)||
-|[Linked List](./Leetcode/Easy/LinkedList/README.md)|||
-|[Trees](./Leetcode/Easy/Trees/README.md)|||
-|[Sorting and Searching](./Leetcode/Easy/Sorting&Searching/README.md)|||
-|[Dynamic Programming](./Leetcode/Easy/DynamicProgramming/README.md)|||
-|[Design](./Leetcode/Easy/Design/README.md)|||
-
-
+- [Easy](./leetcode_code/src/easy/README.md)
 
 
 
