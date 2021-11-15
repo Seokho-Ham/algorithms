@@ -22,7 +22,7 @@ var strStr = function (haystack, needle) {
   if (needle.length === 0) {
     return 0;
   }
-
+    
   let splitArr = haystack.split('');
   for (let i = 0; i < splitArr.length; i++) {
     if (splitArr[i] === needle[0]) {
