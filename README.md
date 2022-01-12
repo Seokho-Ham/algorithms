@@ -12,6 +12,14 @@
 
 ### Leetcode
 
+| 문제명 | 난이도 | 링크 |
+|---|---|---|
+| TwoSum | easy | [링크](/leetcode/src/easy/TwoSum.java) |
+| Reverse Integer | easy | [링크](/leetcode/src/easy/ReverseInteger.java) |
+| Remove Duplicates from Sorted List | easy | [링크](/leetcode/src/easy/RemoveDuplicatesFromSortedList.java) |
+| Palindrome Number | easy | [링크](/leetcode/src/easy/PalindromeNumber.java) |
+| LinkedListCycle | easy | [링크](/leetcode/src/easy/LinkedListCycle.java) |
+
 ### Programmers
 
 
