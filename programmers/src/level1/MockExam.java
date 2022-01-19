@@ -4,7 +4,7 @@ import java.util.*;
 
 public class MockExam {
     public int[] solution(int[] answers) {
-        int[] answer = new int[] {0,0,0};
+        int[] answer = {0,0,0};
         int[][] caseList = {{1, 2, 3, 4, 5}, {2, 1, 2, 3, 2, 4, 2, 5}, {3, 3, 1, 1, 2, 2, 4, 4, 5, 5}};
 
         for(int i=0; i<caseList.length; i++){

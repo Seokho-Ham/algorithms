@@ -4,8 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Algorithms.iml" filepath="$PROJECT_DIR$/.idea/Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/WoowaCodingTest/WoowaCodingTest.iml" filepath="$PROJECT_DIR$/WoowaCodingTest/WoowaCodingTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/leetcode_code/leetcode_code.iml" filepath="$PROJECT_DIR$/leetcode_code/leetcode_code.iml" />
-      <module fileurl="file://$PROJECT_DIR$/programmers_code/programmers_code.iml" filepath="$PROJECT_DIR$/programmers_code/programmers_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/programmers/programmers.iml" filepath="$PROJECT_DIR$/programmers/programmers.iml" />
     </modules>
   </component>
 </project>
