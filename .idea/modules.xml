@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Algorithms.iml" filepath="$PROJECT_DIR$/.idea/Algorithms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WoowaCodingTest/WoowaCodingTest.iml" filepath="$PROJECT_DIR$/WoowaCodingTest/WoowaCodingTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baekjoon-algorithm/baekjoon-algorithm.iml" filepath="$PROJECT_DIR$/baekjoon-algorithm/baekjoon-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hackerrank/hackerrank.iml" filepath="$PROJECT_DIR$/hackerrank/hackerrank.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/programmers/programmers.iml" filepath="$PROJECT_DIR$/programmers/programmers.iml" />
     </modules>
