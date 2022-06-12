@@ -44,6 +44,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -79,7 +80,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -100,16 +101,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BOJ2468">
-    <configuration name="BOJ1009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ1009" />
+  <component name="RunManager" selected="Application.Solution3">
+    <configuration name="BOJ11659" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ11659" />
       <module name="baekjoon-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ1260" />
+    <configuration name="BOJ1764" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ1764" />
       <module name="baekjoon-algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="빛의_경로_사이클" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level2.빛의_경로_사이클" />
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Solution3" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level2.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.BOJ11659" />
+        <item itemvalue="Application.BOJ1764" />
         <item itemvalue="Application.BOJ2468" />
         <item itemvalue="Application.BOJ1987" />
-        <item itemvalue="Application.BOJ1260" />
-        <item itemvalue="Application.빛의_경로_사이클" />
-        <item itemvalue="Application.BOJ1009" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +212,16 @@
       <workItem from="1652947324787" duration="5589000" />
       <workItem from="1653405765812" duration="3662000" />
       <workItem from="1653475248063" duration="10411000" />
+      <workItem from="1653663751195" duration="800000" />
+      <workItem from="1653666349721" duration="734000" />
+      <workItem from="1654079930664" duration="4535000" />
+      <workItem from="1654087331658" duration="949000" />
+      <workItem from="1654610298137" duration="4513000" />
+      <workItem from="1654615231607" duration="1000" />
+      <workItem from="1654683437841" duration="20000" />
+      <workItem from="1654683468581" duration="2669000" />
+      <workItem from="1654783257088" duration="696000" />
+      <workItem from="1654996420765" duration="10062000" />
     </task>
     <servers />
   </component>
